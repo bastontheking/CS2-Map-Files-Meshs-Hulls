@@ -1,4 +1,4 @@
-# Baston.dev Map Files
+# CS2 Map Files (Meshs & Hulls)
 
 ## Overview
 
